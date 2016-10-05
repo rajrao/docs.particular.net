@@ -7,14 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SqlServer_All.EfEdmx
+namespace Shared.EfEdmx
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class MySampleContainer :
-        DbContext
+    public partial class MySampleContainer : DbContext
     {
         public MySampleContainer()
             : base("name=MySampleContainer")

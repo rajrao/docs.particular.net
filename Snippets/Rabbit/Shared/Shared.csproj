@@ -7,8 +7,8 @@
     <ProjectGuid>{E22A9C25-5C4A-43D5-B74B-47BC568B2D9D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Rabbit_All</RootNamespace>
-    <AssemblyName>Rabbit_All</AssemblyName>
+    <RootNamespace>Shared</RootNamespace>
+    <AssemblyName>Shared</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

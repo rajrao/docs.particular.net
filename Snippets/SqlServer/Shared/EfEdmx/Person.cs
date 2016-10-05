@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SqlServer_All.EfEdmx
+namespace Shared.EfEdmx
 {
     using System;
     using System.Collections.Generic;

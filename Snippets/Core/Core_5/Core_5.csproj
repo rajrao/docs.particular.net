@@ -342,9 +342,9 @@
       <Project>{5F02C8A5-55E9-4B79-9C0F-8FB525EBE326}</Project>
       <Name>Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Core_All\Core_All.csproj">
+    <ProjectReference Include="..\Shared\Shared.csproj">
       <Project>{D52A6FEB-CC19-49C3-AF92-475669D2FF25}</Project>
-      <Name>Core_All</Name>
+      <Name>Shared</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
